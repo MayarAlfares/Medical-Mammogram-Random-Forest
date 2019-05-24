@@ -5,7 +5,9 @@ Mammogram classification into normal, abnormal and benign.
 
 
 1. **Pre-Processing**
+
 CLAHE
+
 Adaptive Median Thresholding
 
 2. **Feature Extraction**
