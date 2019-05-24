@@ -4,8 +4,8 @@
 Mammogram classification into normal, abnormal and benign.
 
 1. **Pre-Processing**
-      *CLAHE
-      *Adaptive Median Thresholding
+      -CLAHE
+      -Adaptive Median Thresholding
 
 2. **Feature Extraction**
       *ResNet50
@@ -31,3 +31,8 @@ Mammogram classification into normal, abnormal and benign.
 
 
 Refer to the bachelor thesis for more details and documentation.
+
+
+100. First list item
+     - First nested list item
+       - Second nested list item
