@@ -1,7 +1,7 @@
 # Medical-Mammogram-Random-Forest
 ## Bachelor Project
 
-Mammogram classification into normal, abnormal and benign.
+Mammogram detection, localization and classification into normal, abnormal and benign.
 
 
 1. **Pre-Processing**
